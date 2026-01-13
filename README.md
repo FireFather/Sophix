@@ -1,4 +1,4 @@
-# Sophix
+# sophix
 
 Xiphos chess engine (https://github.com/milostatarevic/xiphos)
 
