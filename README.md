@@ -1,2 +1,6 @@
 # Sophix
-Xiphos chess engine ported from C to C++ and modernized
+
+Xiphos chess engine (https://github.com/milostatarevic/xiphos)
+
+ported from C to C++ and modernized
+
